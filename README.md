@@ -7,7 +7,8 @@ A passionate problem solver with a deep interest in the field of Machine Learnin
 - 🔭 I’m currently working on honing my skills in Machine Learning and Data Science.
 - 🌱 I’m always learning and exploring new technologies to stay at the forefront of my field.
 - 💬 Ask me about programming, ML algorithms, or anything tech-related.
-- 👥 I'm always open to collaboration and believe that working together enhances creativity and yields remarkable results.
+- 👥 I deeply value the potential of collaboration; I believe that by working together, we can create something even more meaningful and
+impactful.
 - 📫 You can reach me at abdulfaheemaf11@gmail.com.
 
 ## Passion for Programming, Data Science, and Machine Learning
